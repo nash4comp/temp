@@ -5,7 +5,7 @@ package ca.bcit.comp1510.lab01;
  * @author Inkyung Baek
  * @version ver 0.1
  */
-
+//desktop1
 public class Birds {
     
     /**
