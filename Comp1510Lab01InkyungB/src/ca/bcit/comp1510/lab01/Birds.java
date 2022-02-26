@@ -6,6 +6,7 @@ package ca.bcit.comp1510.lab01;
  * @version ver 0.1
  */
 //desktop1
+//laptop1
 public class Birds {
     
     /**
