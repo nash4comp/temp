@@ -7,6 +7,7 @@ package ca.bcit.comp1510.lab01;
  */
 //desktop1
 //laptop1
+//desktop2
 public class Birds {
     
     /**
